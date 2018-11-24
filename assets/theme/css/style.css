@@ -11,6 +11,14 @@
  margin-bottom: 0.5rem;
  border-radius: 0;
  }
+
+ .mbr-testimonial {
+   background-color: rgba(46, 46, 46, 0.95);
+   color: #F3F7F9;
+   border-radius: 0;
+   border-width: medium;
+   border-color: #c0a375;
+ }
  
   .btn + .btn {
     margin-left: 1rem; }
